@@ -1,0 +1,33 @@
+.title {
+	text-align: center;
+	background-color: #deb887;
+	font-size: 36px;
+	color: #362206;
+}
+
+.link {
+	text-decoration: none;
+	background-color: #362206;
+	color: #deb887;
+}
+
+img {
+	width: 300px;
+	height: auto;
+}
+
+.content-title {
+	background-color: #deb887;
+	color: #362206;
+	text-align: center;
+}
+
+.description {
+	color: #000000;
+	background-color: #c7954f;
+}
+
+.ingredients,
+.steps {
+	background-color: #c7954f;
+}
